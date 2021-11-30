@@ -1,2 +1,3 @@
 # Clustering
- Tarefa de Agrupamentp
+ Mineração de Dados
+ Tarefa de Agrupamento
